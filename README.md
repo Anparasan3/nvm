@@ -10,3 +10,4 @@ curl -o- https://nvm-install.vercel.app/ | bash
 
 # ref
 https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found
+
