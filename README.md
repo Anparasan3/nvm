@@ -2,7 +2,7 @@
 
 
 ### method 1
-curl -o- https://nvm-install.vercel.app/ | bash
+- curl -o- https://nvm-install.vercel.app/ | bash
 
 ### method 2
 - touch ~/.bash_profile
