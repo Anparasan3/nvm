@@ -7,3 +7,10 @@
 ### method 2
 - touch ~/.bash_profile
 - curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash
+
+
+#### if you don't have a <b>git bash<b> terminal install in your system
+
+- Windows download :- https://git-scm.com/download/win
+- Linux download :- https://git-scm.com/download/linux
+- Macos download :- https://git-scm.com/download/mac
