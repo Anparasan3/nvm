@@ -2,7 +2,7 @@
 
 # method 1
 touch ~/.bash_profile
-curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash
+curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
 
 
 # method 2
