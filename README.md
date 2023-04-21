@@ -6,7 +6,7 @@
 
 ### method 2
 - touch ~/.bash_profile
-- curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash
+- curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
 
 
 #### if you don't have a git bash terminal install in your system
