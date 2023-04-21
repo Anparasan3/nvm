@@ -1,4 +1,4 @@
-# nvm
+# nvm installation using commad prompt
 
 # method 1
 touch ~/.bash_profile
