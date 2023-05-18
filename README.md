@@ -2,11 +2,18 @@
 
 
 ### method 1
-- `curl -o- https://nvm-install.vercel.app/ | bash`
+```sh
+curl -o- https://nvm-install.vercel.app/ | bash
+```
 
 ### method 2
-- `touch ~/.bash_profile`
-- `curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash`
+```sh
+# create bash profile
+touch ~/.bash_profile
+
+# download and install nvm
+curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
+```
 
 
 **if you don't have a git bash terminal install in your system**
