@@ -1,4 +1,8 @@
-## NVM install using command prompt
+# nvm
+
+# method 1
+touch ~/.bash_profile
+curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash
 
 
 ### method 1
@@ -22,5 +26,6 @@ curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
 - Linux download :- https://git-scm.com/download/linux
 - Macos download :- https://git-scm.com/download/mac
 
-**for more informations**
-- https://git-scm.com/downloads
+# ref
+https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found
+
