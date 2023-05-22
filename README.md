@@ -16,7 +16,7 @@ curl -o- https://nvm-install.vercel.app/ | bash
 touch ~/.bash_profile
 
 # download and install nvm
-curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
+curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash
 ```
 
 
