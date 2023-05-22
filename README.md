@@ -26,6 +26,10 @@ curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/master/nvm.sh | bash
 - Linux download :- https://git-scm.com/download/linux
 - Macos download :- https://git-scm.com/download/mac
 
-# ref
+
+**for more informations**
+- https://git-scm.com/downloads
+
+### ref
 https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found
 
