@@ -1,5 +1,5 @@
 {
-  "name": "nvm",
+  "name": "@Anpu/nvm",
   "version": "1.0.0",
   "description": "touch ~/.bash_profile\r curl -o- https://raw.githubusercontent.com/Anparasan3/nvm/main/nvm.sh | bash",
   "main": "index.js",
